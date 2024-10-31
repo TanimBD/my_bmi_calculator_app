@@ -1,6 +1,9 @@
 # my_bmi_calculator_app
 
+![screenshot](assets/main.png)
+
 A new Flutter project.
+
 
 ## Getting Started
 
